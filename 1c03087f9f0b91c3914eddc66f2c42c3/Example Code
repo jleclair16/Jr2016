@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Julie's Webpage</title>
+  </head>
+  <body style="background-color: pink">
+    <h1><strong><center>Todays Weather</center></strong><h1>
+    <h2 style="font-family:Vendana"><center> September 30, 2016</center></h2>
+    <p style="color: blue">Current Forcast.. 60 degrees and cloudy</p>
+   <img scr="cloud.jpg">
+   <h3> 7 Day Forcast</h3>
+    <ol>
+      <div>
+        <li>Saturday - 61 and raining</li>
+        <li>Sunday - 62 and cloudy</li>
+        <li>Monday - 66 and cloudy</li>
+        <li>Tuesday - 60 and cloudy</li>
+        <li>Wedneday - 61 and sunny</li>
+        <li>Thursday - 67 and sunny</li>
+        <li>Friday - 68 and raining</li>
+      </div>
+    </ol>
+   </body>
+</html>
