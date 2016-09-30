@@ -1,0 +1,23 @@
+h1{
+    color: lightblue;
+}
+h2{
+    color: lightblue;
+}
+p{
+    color: lightblue;
+}
+div{
+    background-color:orange;
+    color:black;
+    height: 100px;
+    width: 100px;    
+    border:1px;
+    color: dark blue;
+}
+div div{
+    color: red;
+}
+div div div{
+    color:dark blue;
+}
