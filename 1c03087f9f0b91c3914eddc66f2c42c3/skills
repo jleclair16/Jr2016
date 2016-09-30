@@ -1,0 +1,30 @@
+a.	CSS = 2
+b.	HTML / HTML5 = 2
+c.	Javascript
+i.	Javascript = 2
+ii.	Bootstrap = 1
+iii.	Jquery = 1
+iv.	Angular = 0
+v.	Unify = 0
+d.	Linux 
+i.	Command line = 1
+ii.	Shell Scripting = 0
+iii.	Piped commands = 0
+iv.	Apache Configuration = 0
+v.	NGINX Configuration = 0
+
+e.	.net
+i.	C# = 0
+ii.	VB = 0
+f.	PHP
+i.	PHP 5.x = 0
+ii.	CTFr Framework = 0
+iii.	Codeigniter = 0
+iv.	Drupal = 0
+v.	Slim API Framework = 0
+g.	Python = 2
+h.	Ruby On Rails = 0
+i.	SQL
+i.	SQL = 0
+ii.	Stored Procedures = 0
+iii.	Views = 0
